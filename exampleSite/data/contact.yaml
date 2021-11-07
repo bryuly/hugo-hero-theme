@@ -1,6 +1,9 @@
-email: 'Hello@boiseforeigncar.com'
-phone: '(208) 345-2621'
-businessName: 'Hugo Serif'
+email: 
+    'Hello@boiseforeigncar.com'
+phone: 
+    '(208) 345-2621'
+businessName: 
+    'Hugo Serif'
 address: |
     4705 Emerald Street
     Boise, ID 83706
