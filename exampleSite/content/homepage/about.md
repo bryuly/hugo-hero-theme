@@ -6,4 +6,4 @@ button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+If you want to know more about who we are and our history, click here.
