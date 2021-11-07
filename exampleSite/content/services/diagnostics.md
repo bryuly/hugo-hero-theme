@@ -1,18 +1,17 @@
 ---
-title: 'Accounting'
+title: 'Diagnostics'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-1.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Accounting'
-heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
+heroHeading: 'Diagnostics'
+heroSubHeading: 'We will diagnose any problems you may be having.'
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+We want to help you be safe and feel safe on the road. Come in to us if you 
+have any concerns, want a check up, or need to perform routine maintenance.
 
 ## Ne verba patulosque numen vix libet
 
