@@ -1,6 +1,6 @@
 baseURL = "www.example.com"
 languageCode = "en-us"
-title = "tab title"
+title = "Boise Foreign Car Service, Inc."
 themesDir = "../.."
 theme = "hugo-hero-theme"
 
